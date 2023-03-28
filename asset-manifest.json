@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/fylo-landing-page/static/js/main.ac3e3ca3.js",
+    "index.html": "/fylo-landing-page/index.html",
+    "static/media/bg-curvy-desktop.svg": "/fylo-landing-page/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d8cf1140c09e2.svg",
+    "static/media/bg-curvy-mobile.svg": "/fylo-landing-page/static/media/bg-curvy-mobile.3ab5d2c7091bda722a7b84824c5a0ce9.svg",
+    "main.ac3e3ca3.js.map": "/fylo-landing-page/static/js/main.ac3e3ca3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac3e3ca3.js"
+  ]
+}
