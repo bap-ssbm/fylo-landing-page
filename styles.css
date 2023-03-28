@@ -370,7 +370,10 @@ button{
        box-sizing: border-box;
     padding: 15px 30px;
     }
-    .access-input-wrapper>button{
+    .second-btn-wrapper{
+        width: 100%;
+    }
+    .second-btn-wrapper>button{
         box-sizing: border-box;
         width: 100%;
     }
